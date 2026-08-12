@@ -29,7 +29,8 @@ Ce projet démontre un processus "end-to-end" : de l'extraction et du nettoyage 
 ![Aperçu du Dashboard](dashboard/preview.png)
 
 ## 💡 Principaux Insights
-
+- L'analyse met en évidence une forte domination de la catégorie **Électronique** dans le chiffre d'affaires total.
+- Le suivi temporel permet d'identifier précisément les pics d'activité commerciale.
 
 ---
 **Amani Tlili**  
