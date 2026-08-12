@@ -25,14 +25,12 @@ Ce projet démontre un processus "end-to-end" : de l'extraction et du nettoyage 
    - Top 10 des produits les plus vendus.
 
 ## 📈 Aperçu du Dashboard
-*(Remplacez cette section en téléversant une capture d'écran de votre dashboard dans le dossier /dashboard/)*
+
 ![Aperçu du Dashboard](dashboard/preview.png)
 
 ## 💡 Principaux Insights
-- [À compléter : Exemple : "Le chiffre d'affaires a augmenté de 15% au Q3 grâce à..."]
-- [À compléter : Exemple : "La catégorie 'Électronique' représente 40% des revenus totaux."]
+
 
 ---
 **Amani Tlili**  
 *Junior Data Analyst | Power BI • SQL • Python*  
-[Lien vers votre LinkedIn] | [Email]
